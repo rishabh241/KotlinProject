@@ -12,7 +12,7 @@ class MainActivity : ComponentActivity() {
 
         setContent {
 //            DestinationScreen()
-//            App()
+            App()
         }
     }
 }
@@ -21,5 +21,5 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun AppAndroidPreview() {
 //   DestinationScreen()
-//    App()
+    App()
 }
